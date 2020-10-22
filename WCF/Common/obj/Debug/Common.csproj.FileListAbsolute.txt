@@ -1,0 +1,7 @@
+C:\SciencePark_SourceCode\WPF\WCF\Common\bin\Debug\Common.dll
+C:\SciencePark_SourceCode\WPF\WCF\Common\bin\Debug\Common.pdb
+C:\SciencePark_SourceCode\WPF\WCF\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\SciencePark_SourceCode\WPF\WCF\Common\obj\Debug\Common.dll
+C:\SciencePark_SourceCode\WPF\WCF\Common\obj\Debug\Common.pdb
+C:\SciencePark_SourceCode\WPF\WCF\bin\Debug\Common.dll
+C:\SciencePark_SourceCode\WPF\WCF\bin\Debug\Common.pdb

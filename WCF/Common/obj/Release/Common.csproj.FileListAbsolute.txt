@@ -1,0 +1,8 @@
+C:\SciencePark_SourceCode\WPF\WCF\Common\bin\Release\Common.dll
+C:\SciencePark_SourceCode\WPF\WCF\Common\bin\Release\Common.pdb
+C:\SciencePark_SourceCode\WPF\WCF\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\SciencePark_SourceCode\WPF\WCF\Common\obj\Release\Common.dll
+C:\SciencePark_SourceCode\WPF\WCF\Common\obj\Release\Common.pdb
+C:\SciencePark_SourceCode\WPF\WCF\bin\Release\Common.dll
+C:\SciencePark_SourceCode\WPF\WCF\bin\Release\Common.pdb
+C:\SciencePark_SourceCode\WPF\WCF\Common\obj\Release\Common.csprojAssemblyReference.cache

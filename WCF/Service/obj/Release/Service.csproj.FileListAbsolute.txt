@@ -1,0 +1,15 @@
+C:\SciencePark_SourceCode\WPF\WCF\Service\bin\Release\Service.exe.config
+C:\SciencePark_SourceCode\WPF\WCF\Service\bin\Release\Service.exe
+C:\SciencePark_SourceCode\WPF\WCF\Service\bin\Release\Service.pdb
+C:\SciencePark_SourceCode\WPF\WCF\Service\bin\Release\Common.dll
+C:\SciencePark_SourceCode\WPF\WCF\Service\bin\Release\Common.pdb
+C:\SciencePark_SourceCode\WPF\WCF\Service\obj\Release\Service.csprojAssemblyReference.cache
+C:\SciencePark_SourceCode\WPF\WCF\Service\obj\Release\Service.ProjectInstaller.resources
+C:\SciencePark_SourceCode\WPF\WCF\Service\obj\Release\Service.csproj.GenerateResource.cache
+C:\SciencePark_SourceCode\WPF\WCF\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+C:\SciencePark_SourceCode\WPF\WCF\Service\obj\Release\Service.csproj.CopyComplete
+C:\SciencePark_SourceCode\WPF\WCF\Service\obj\Release\Service.exe
+C:\SciencePark_SourceCode\WPF\WCF\Service\obj\Release\Service.pdb
+C:\SciencePark_SourceCode\WPF\WCF\bin\Release\Service.exe.config
+C:\SciencePark_SourceCode\WPF\WCF\bin\Release\Service.exe
+C:\SciencePark_SourceCode\WPF\WCF\bin\Release\Service.pdb

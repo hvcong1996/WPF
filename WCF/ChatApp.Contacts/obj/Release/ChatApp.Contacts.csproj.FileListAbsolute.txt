@@ -1,0 +1,5 @@
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Contacts\bin\Release\ChatApp.Contacts.dll
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Contacts\bin\Release\ChatApp.Contacts.pdb
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Contacts\obj\Release\ChatApp.Contacts.csproj.CoreCompileInputs.cache
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Contacts\obj\Release\ChatApp.Contacts.dll
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Contacts\obj\Release\ChatApp.Contacts.pdb

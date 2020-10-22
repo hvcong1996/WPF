@@ -1,0 +1,10 @@
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\bin\Debug\ChatApp.Service.exe.config
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\bin\Debug\ChatApp.Service.exe
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\bin\Debug\ChatApp.Service.pdb
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\bin\Debug\ChatApp.Contacts.dll
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\bin\Debug\ChatApp.Contacts.pdb
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\obj\Debug\ChatApp.Service.csprojAssemblyReference.cache
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\obj\Debug\ChatApp.Service.csproj.CoreCompileInputs.cache
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\obj\Debug\ChatApp.Service.csproj.CopyComplete
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\obj\Debug\ChatApp.Service.exe
+C:\SciencePark_SourceCode\WPF\WCF\ChatApp.Service\obj\Debug\ChatApp.Service.pdb

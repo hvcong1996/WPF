@@ -1,0 +1,15 @@
+C:\SciencePark_SourceCode\WPF\WCF\bin\Debug\Uninstall.exe.config
+C:\SciencePark_SourceCode\WPF\WCF\bin\Debug\Uninstall.exe
+C:\SciencePark_SourceCode\WPF\WCF\bin\Debug\Uninstall.pdb
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall.csprojAssemblyReference.cache
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\MainWindow.g.cs
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\App.g.cs
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall_MarkupCompile.cache
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall_MarkupCompile.lref
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\MainWindow.baml
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall.g.resources
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall.Properties.Resources.resources
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall.csproj.GenerateResource.cache
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall.csproj.CoreCompileInputs.cache
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall.exe
+C:\SciencePark_SourceCode\WPF\WCF\Uninstall\obj\Debug\Uninstall.pdb
